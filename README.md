@@ -1,1 +1,1 @@
-﻿# AI Training Week 1
+﻿Focus: Matplotlib charts and Git workflow
