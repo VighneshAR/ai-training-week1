@@ -1,1 +1,1 @@
-﻿# AI Training Week 1
+﻿Focus: NumPy and Pandas basics
