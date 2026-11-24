@@ -1,1 +1,1 @@
-﻿Focus: NumPy and Pandas basics
+﻿Focus: NumPy, Pandas, Matplotlib charts, and Git workflow
